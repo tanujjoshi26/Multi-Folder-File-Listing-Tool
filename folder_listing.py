@@ -10,4 +10,4 @@ try:
       print(file)
 
 except FileNotFoundError:
-   print("Please provide correct path")
+   print("Please provide correct directory path")
